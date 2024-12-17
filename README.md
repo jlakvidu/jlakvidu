@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&center=true&size=20&color=36BCF7FF&duration=3000&pause=1000&repeat=true">
 </h3>
 
+<h3 align="center">Building Tomorrow's Applications, One Stack at a Time</h3>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jlakvidu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   
