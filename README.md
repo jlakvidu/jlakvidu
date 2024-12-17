@@ -1,80 +1,97 @@
-<h1 align="center">Hi 👋, I'm Janith Lakvidu</h1>
-<h3 align="center">Building Tomorrow's Applications, One Stack at a Time</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Janith+Lakvidu;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=36BCF7FF&duration=4000&pause=1000">
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jlakvidu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Tomorrow's+Applications;One+Stack+at+a+Time&center=true&size=20&color=36BCF7FF">
+</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jlakvidu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  
+  <a href="https://github.com/jlakvidu?tab=followers">
+    <img src="https://img.shields.io/github/followers/jlakvidu?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jlakvidu&theme=algolia&margin-w=15&margin-h=15&row=2&column=4&no-frame=true" alt="Trophies"/>
+</div>
+
+<br/>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h2>🚀 About Me</h2>
+    <ul>
+      <li>👨‍💻 Check out my projects: <a href="https://github.com/jlakvidu?tab=repositories">My Repositories</a></li>
+      <li>📫 Reach me at: <a href="mailto:jlakvidu@gmail.com">jlakvidu@gmail.com</a></li>
+      <li>⚡ Fun Fact: As a Fullstack Developer, I get to master both the front-end and back-end — it's like being the architect and the interior designer of a digital world!</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://raw.githubusercontent.com/jlakvidu/jlakvidu/main/coding.gif" width="400" alt="Coding" style="max-width: 100%;" />
+  </div>
+</div>
+
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jlakvidu&theme=onedark&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies" />
+  <a href="https://linkedin.com/in/janith-lakvidu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
----
+<h2 align="center">💻 Tech Stack</h2>
 
-### 🚀 About Me  
-- 👨‍💻 **All of my projects**: [**My Repositories**](https://github.com/jlakvidu?tab=repositories)  
-- 📫 **Reach me at**: **jlakvidu@gmail.com**  
-- ⚡ **Fun Fact**: As a Fullstack Developer, I get to master both the front-end and back-end — it's like being the architect **and** the interior designer of a digital world!  
+<details>
+  <summary>Backend</summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,python,spring" />
+  </p>
+</details>
 
----
+<details>
+  <summary>Frontend</summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=angular,typescript,react,html,css,tailwind" />
+  </p>
+</details>
 
-### 🌐 Connect with Me:
+<details>
+  <summary>Database</summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </p>
+</details>
+
+<details>
+  <summary>Tools & Platforms</summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+  </p>
+</details>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <a href="https://linkedin.com/in/janith-lakvidu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
-
----
-
-### 🚀 Languages and Tools:
-
-#### Backend
-<p align="center">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
-</p>
-
-#### Frontend
-<p align="center">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-</p>
-
-#### Database
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-</p>
-
-#### Tools & Platforms
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 My GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlakvidu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jlakvidu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlakvidu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlakvidu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlakvidu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlakvidu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlakvidu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/jlakvidu/jlakvidu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
