@@ -6,6 +6,9 @@
 
 <h3 align="center">Building Tomorrow's Applications, One Stack at a Time</h3>
 
+<br>
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jlakvidu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   
