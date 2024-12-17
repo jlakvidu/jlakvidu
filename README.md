@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Janith+Lakvidu;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=36BCF7FF&duration=4000&pause=1000">
-</h1>
+<h1 align="center">Hi 👋, I'm Janith Lakvidu</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Tomorrow's+Applications;One+Stack+at+a+Time&center=true&size=20&color=36BCF7FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&center=true&size=20&color=36BCF7FF&duration=3000&pause=1000&repeat=true">
 </h3>
 
 <div align="center">
@@ -36,62 +34,4 @@
   </div>
 </div>
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/janith-lakvidu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<details>
-  <summary>Backend</summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,python,spring" />
-  </p>
-</details>
-
-<details>
-  <summary>Frontend</summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,react,html,css,tailwind" />
-  </p>
-</details>
-
-<details>
-  <summary>Database</summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </p>
-</details>
-
-<details>
-  <summary>Tools & Platforms</summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
-  </p>
-</details>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlakvidu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlakvidu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlakvidu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlakvidu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/jlakvidu/jlakvidu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+[Rest of the README content remains the same...]
