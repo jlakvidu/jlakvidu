@@ -1,178 +1,126 @@
-<div align="center">
-  
-# Hi 👋, I'm Janith Lakvidu
+<h1 align="center">Hi 👋, I'm Dilshan Padukka</h1>
+<h3 align="center">A passionate Trainee Software Engineer</h3>
+<br>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. My enthusiasm for software engineering has perpetually developed since an early age. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Dilshanpadukka&label=Profile%20views&color=0e75b6&style=flat" alt="Dilshanpadukka" /> 
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things;Building+Tomorrow's+Applications;One+Stack+at+a+Time&center=true&size=22&color=36BCF7FF&font=Fira+Code&duration=3000&pause=1000&repeat=true" alt="Typing Animation" />
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+<h3 align="left">🚀 Currently:</h3>
+<p align="left">
+- Mastering Full Stack Development<br>
+- Studying Spring, React, and Angular<br>
+- UI Designer
+</p>
+
+<h3 align="left">🛠 Tech Stack:</h3>
+<p align="left">
+- Full Stack: Java, JavaScript, HTML, CSS<br>
+- Frontend: React, Angular<br>
+- Backend: Spring Framework<br>
+- CMS: WordPress
+</p>
+
+<h3 align="left">💡 Let's connect:</h3>
+<p align="left">
+Passionate about emerging tech and the future of software development.<br>
+Always eager to discuss new ideas and innovations in the field!
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dilshan-padukka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilshanpadukka" height="30" width="40" /></a>
+  <a href="udayankadilshan23@gmail.com">
+    <img target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,hibernate" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,tailwind" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman" />
+  </a>
+</p>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jlakvidu&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/jlakvidu)
-[![Followers](https://img.shields.io/github/followers/jlakvidu?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/jlakvidu?tab=followers)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+ ## :chart_with_upwards_trend: Current Stats
+</br>
 </div>
+<br />
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshanpadukka&theme=gotham&show_icons=true" alt="Dilshanpadukka"/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jlakvidu&theme=algolia&margin-w=15&margin-h=15&row=2&column=4&no-frame=true" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 👨‍💻 Quick Facts
-- 🔭 Currently working on **Full Stack Applications**
-- 🌱 Learning **Advanced React Patterns & Cloud Architecture**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Java, Python**
-- 📫 Reach me at: **jlakvidu@gmail.com**
-- ⚡ Fun fact: **As a Fullstack Developer, I get to master both the front-end and back-end — it's like being the architect and the interior designer of a digital world!**
-
-### 🎯 Current Focus
-- Building scalable web applications
-- Exploring modern development practices
-- Contributing to open source community
-
-</td>
-<td valign="top" width="50%">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jlakvidu/jlakvidu/main/coding.gif" width="400" alt="Coding Animation" />
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>🔧 Technologies & Tools</b></summary>
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Dilshanpadukka&show_icons=true&theme=gotham"/>
+</p>
 <br>
 
-**Backend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,python,spring,express" alt="Backend Technologies" />
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Dilshanpadukka&theme=react-dark&hide_border=true&area=true)
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Dilshanpadukka&theme=gotham"/>
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
 </p>
 
-**Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,typescript,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
+------
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Dilshanpadukka&theme=darkhub" alt="Dilshanpadukka" />
+    </a>
 </p>
 
-**Database & Storage**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Database Technologies" />
-</p>
+------
 
-**DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,figma" alt="DevOps & Tools" />
-</p>
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlakvidu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlakvidu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlakvidu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlakvidu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janith-lakvidu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlakvidu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlakvidu)
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🚀 **Project Alpha** | Full-stack web application with modern UI | React, Node.js, MongoDB | [Demo](#) \| [Code](#) |
-| 🌟 **Project Beta** | Mobile-responsive dashboard | Angular, Spring Boot, MySQL | [Demo](#) \| [Code](#) |
-| 💡 **Project Gamma** | API service with microservices | Python, Docker, PostgreSQL | [Demo](#) \| [Code](#) |
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://github.com/jlakvidu/jlakvidu/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-</div>
-
----
-
-<div align="center">
-
-**💙 Thank you for visiting my profile!**
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Happy+Coding!;Let's+build+something+amazing+together!&center=true&size=16&color=FF6B6B&font=Pacifico&duration=3000&pause=1000&repeat=true" alt="Footer Animation" />
-
-</div>
-```
-
-This professional GitHub profile README includes:
-
-✨ **Key Improvements:**
-- Clean, organized structure with proper sections
-- Professional table layout for the About Me section
-- Collapsible tech stack section for better organization
-- Enhanced visual hierarchy with proper spacing
-- Featured projects section (you can customize with your actual projects)
-- Consistent styling and color scheme
-- Better mobile responsiveness
-
-🎨 **Visual Elements:**
-- Animated typing effects for dynamic content
-- GitHub trophies and statistics
-- Contribution graphs and activity visualization
-- Professional badges and icons
-- Snake animation for contributions
-
-📝 **Customization Tips:**
-- Replace placeholder project information with your actual projects
-- Update the LinkedIn URL and other social links
-- Modify the tech stack icons based on your expertise
-- Adjust colors in the typing animations to match your preference
-- Add or remove sections based on your needs
-
+Credit: [Dilshan Padukka](https://github.com/Dilshanpadukka)
+Last Edited on: 10/11/2024
