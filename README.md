@@ -108,16 +108,20 @@ Always eager to discuss new ideas and innovations in the field!
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=janithlakvidu&theme=gotham&show_icons=true" alt="janithlakvidu"/>
+<p align="center">
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=janithlakvidu&theme=gotham&show_icons=true&count_private=true&include_all_commits=true" alt="janithlakvidu"/>
 
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=janithlakvidu&show_icons=true&theme=gotham"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=janithlakvidu&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" />
 </p>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=janithlakvidu&theme=react-dark&hide_border=true&area=true)
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=janithlakvidu&theme=gotham"/>
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janithlakvidu&theme=react-dark&hide_border=true&area=true" />
+</p>
 
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithlakvidu&theme=gotham&layout=compact&langs_count=8" />
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
 ------
